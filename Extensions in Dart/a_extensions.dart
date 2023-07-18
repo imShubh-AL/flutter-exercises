@@ -1,5 +1,5 @@
 void main() {
-  String text = 'Hello, world!';
+  String text = 'hello, world!';
   print(text.capitalize());
 }
 
